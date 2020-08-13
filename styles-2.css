@@ -1,0 +1,16 @@
+h1 {
+  font-color: green;
+  font-family: Arial,serif;
+}
+
+h2 {
+  text-align: left;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+p {
+font-weight: bold;
+text-align: left;
+color: green;
+}
